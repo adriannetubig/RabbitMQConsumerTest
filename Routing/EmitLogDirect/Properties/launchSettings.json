@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "EmitLogDirect": {
+      "commandName": "Project"
+    }
+  }
+}
