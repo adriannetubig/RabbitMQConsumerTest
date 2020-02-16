@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLog", "EmitLog\EmitLog.csproj", "{22467758-9BD3-4648-B2DC-ED44867B7708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiveLogs", "ReceiveLogs\ReceiveLogs.csproj", "{49A39345-E882-44F1-BFBB-B280DC6C7CC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22467758-9BD3-4648-B2DC-ED44867B7708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22467758-9BD3-4648-B2DC-ED44867B7708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22467758-9BD3-4648-B2DC-ED44867B7708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22467758-9BD3-4648-B2DC-ED44867B7708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A39345-E882-44F1-BFBB-B280DC6C7CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A39345-E882-44F1-BFBB-B280DC6C7CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A39345-E882-44F1-BFBB-B280DC6C7CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A39345-E882-44F1-BFBB-B280DC6C7CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {640AF776-C077-4FEA-B397-6DBCE57DF0A4}
+	EndGlobalSection
+EndGlobal
